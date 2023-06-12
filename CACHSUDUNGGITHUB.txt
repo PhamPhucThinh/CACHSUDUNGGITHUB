@@ -1,0 +1,8 @@
+Nhung lenh co ban de dung github:
+git clone "link"
+
+git add .
+git commit -am "messenger"
+git push
+
+git pull
